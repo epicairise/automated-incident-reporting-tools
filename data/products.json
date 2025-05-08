@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Intelex Incident Reporting",
+    "slug": "intelex-incident-reporting",
+    "description": "A comprehensive EHS platform that automates incident capture, analysis, and compliance reporting.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/intelex-incident-reporting.jpg",
+    "target_audience_match": "Great for compliance managers who need to stay ahead of reporting demands across multiple locations without losing sleep.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "incident.io",
+    "slug": "incident-io",
+    "description": "An AI-powered platform for rapid incident response and reporting, tailored for fast-paced teams.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/incident-io.jpg",
+    "target_audience_match": "Perfect for tech teams trying to resolve incidents fast without skipping crucial steps.",
+    "price": "Free trial available",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Cority Incident Management",
+    "slug": "cority-incident-management",
+    "description": "A robust solution for collecting, analyzing, and reporting incidents with a focus on root cause analysis.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/cority-incident-management.jpg",
+    "target_audience_match": "Ideal for quality and safety leaders who want to stop repeat incidents at the source.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "VelocityEHS Incident Management",
+    "slug": "velocityehs-incident-management",
+    "description": "Simplifies workplace incident reporting and tracking, emphasizing prevention through risk analysis.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/velocityehs-incident-management.jpg",
+    "target_audience_match": "Perfect for safety teams who want to prevent problems before they escalate.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Kaseware Incident Management",
+    "slug": "kaseware-incident-management",
+    "description": "An integrated platform for swift incident response, documentation, and resolution across various industries.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/kaseware-incident-management.jpg",
+    "target_audience_match": "Great for operations leaders who need fast, well-documented incident resolution across teams.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
+  }
+]
